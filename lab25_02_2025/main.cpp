@@ -7,3 +7,5 @@ int main()
 	game.start();
 	game.end();
 	// bla blea}
+
+}
