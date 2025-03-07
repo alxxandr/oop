@@ -6,5 +6,4 @@ int main()
 	game.initialize();
 	game.start();
 	game.end();
-	
 }
