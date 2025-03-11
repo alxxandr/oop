@@ -9,7 +9,7 @@
                 "/EHsc",
                 "/nologo",
                 "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "${workspaceFolder}/lab25_02_2025/*.cpp"
+                "${workspaceFolder}/lab25_03_2025/*.cpp"
             ],
             "options": {
                 "cwd": "${fileDirname}"
